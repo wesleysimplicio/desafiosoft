@@ -1,0 +1,18 @@
+
+------------------------------------------------ DESAFIO ------------------------------------------------
+O desafio corresponde ao desenvolvimento de duas páginas. Na primeira página teremos um formulário para consulta de CPF, essa consulta deverá ter a possibilidade de dois caminhos, o triste, de insucesso, onde o CPF inserido não é valido, gerando uma mensagem de erro na tela, e o feliz, onde
+
+O CPF é localizado e o usuário direcionado a tela dois.
+(Os dados podem ser mockados)
+5 dias para realização do desafio a partir do momento que for enviado ao DEV.
+O Resultado deve ser publicado no Git pessoal do DEV, e posteriormente compartilhado para analise do time técnico.
+
+As imagens são de como devem ser desenhadas as telas.
+
+--------------------------------------------------------------------------------------------------------------
+
+Enviar o resultado com o link do git do desafio para adalberto.adam@softtek.com
+
+ 
+
+Qualquer dúvida pode enviar para o adalberto.adam@softtek.com
